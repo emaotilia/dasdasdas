@@ -7,5 +7,5 @@ Medicine
 Prescription
 Customer
 Employee:
-Doctor
-Receptionist
+(Doctor, 
+Receptionist)
